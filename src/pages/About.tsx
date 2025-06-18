@@ -13,7 +13,7 @@ const About: React.FC = () => {
             TrendyFashion was founded in 2020 with a simple mission: to provide high-quality, trendy fashion at affordable prices. What started as a small online store has grown into a beloved fashion destination for customers across the country.
           </p>
           <p className="text-gray-600 mb-4">
-            Our founder, Amit Godara, noticed a gap in the market for stylish clothing that didn't break the bank. With a background in fashion design and a passion for accessible style, she created TrendyFashion to bridge that gap.
+            Our founder, Arpit Kushwaha, noticed a gap in the market for stylish clothing that didn't break the bank. With a background in fashion design and a passion for accessible style, she created TrendyFashion to bridge that gap.
           </p>
           <p className="text-gray-600">
             Today, we continue to be driven by our commitment to quality, affordability, and customer satisfaction. We believe that everyone deserves to look and feel their best without spending a fortune.
